@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanbf/resume.git"
+  },
+  "author": "hangoglebf@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanbf/resume/issues"
+  },
+  "homepage": "https://github.com/hanbf/resume#readme"
+}
